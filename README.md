@@ -62,6 +62,8 @@ Tiene como principal propósito que los estudiantes apliquen conocimientos en el
   + Oppenheim, A. V., Schafer, R., W. (2000). Tratamiento de Señales en Tiempo Discreto. Segunda Edición, Prentice Hall, Madrid.
   
 ### Feature representations:
+  + https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+  + https://arxiv.org/pdf/1802.03426.pdf
   + https://towardsdatascience.com/how-exactly-umap-works-13e3040e1668
   + https://github.com/lmcinnes/umap
   + https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
